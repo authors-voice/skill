@@ -30,6 +30,14 @@ This means the user's corpus is a **persistent, curated repository** — not a t
 
 **The agent's job during import is curation, not bulk ingestion.** Every document must be verified with the user before it enters the corpus.
 
+**Corpus size guidelines:**
+- **Minimum**: 3-5 documents, ~5,000 words — enough for basic pattern detection
+- **Good**: 10+ documents, ~15,000+ words — reliable voice profile
+- **Per category**: At least 3 documents in each category you plan to use for voice output
+- More is better, but only if it's genuinely human-written. 5 authentic documents beat 50 mixed ones.
+
+If the user doesn't have enough samples yet, tell them. A thin corpus produces a weak profile — the agent should set expectations rather than generate from insufficient data.
+
 ---
 
 ## CRITICAL RULES
