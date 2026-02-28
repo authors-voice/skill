@@ -5,15 +5,10 @@ Import your real writing, build a voice profile, and apply your voice to any con
 ## Install
 
 ```bash
-claude install github:travsteward/authors-voice
+claude install github:authors-voice/skill
 ```
 
-## Setup
-
-1. Sign up at [authors-voice.com](https://authors-voice.com)
-2. Generate an API key at [Voice Studio > API Keys](https://authors-voice.com/voice?tab=api-keys)
-3. Set your key: `export AV_API_KEY="av_live_YOUR_KEY_HERE"`
-4. Say "setup voice" to get started
+Paste the command into your agent. It walks you through setup — generating an API key, connecting your accounts, and importing your writing.
 
 ## What it does
 
