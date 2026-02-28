@@ -270,29 +270,6 @@ If anything fails, rewrite that section. Don't patch — rewrite using the sampl
 
 ---
 
-## Example Agent Interaction
-
-```
-Agent: I found 15 documents in your Google Drive. Here are the titles:
-  1. "TM Copy 2024"
-  2. "Server Tiers and Rankings"
-  3. "VSL Script: The Brotherhood"
-  4. "Tournament Male Book 3.0"
-  ...
-
-Which of these did you personally write? I need to know so I only
-use your authentic writing for voice extraction. Please also flag
-any that were AI-generated.
-
-User: 1 and 2 are mine. 3 and 4 are AI-generated.
-
-Agent: Got it. I'll import "TM Copy 2024" and "Server Tiers and Rankings"
-as Human writing samples. Skipping the AI docs. What category fits
-these best — blog, business, email?
-```
-
----
-
 ## Troubleshooting
 
 **"Unauthorized"** — Check `AV_API_KEY` is set and starts with `av_live_`.
