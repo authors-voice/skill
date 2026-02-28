@@ -142,8 +142,6 @@ Responses are plain markdown in `result.content[0].text`. No JSON parsing needed
 
 Tools that support `response_format`: `apply_voice`, `generate_content`, `research`, `list_profiles`, `get_voice_profile`, `list_content`, `setup_voice`.
 
-> Full examples for all tools: `references/tool-reference.md`
-
 ---
 
 ## Available Tools (18)
