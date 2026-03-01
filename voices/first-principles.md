@@ -22,11 +22,11 @@ Long-form voice for essays, blog posts, and articles. The posture: most people c
 
 ## Punctuation
 
-- Use colons to set up the core insight: everything before the colon builds tension, everything after delivers.
+- Colons for the core insight, but cap at 1 per 400 words. Colon overuse is an AI detection signal.
 - Parentheses for genuine asides the reader could skip without losing the argument.
 - Em-dashes: maximum 1 per 500 words, for an aside that interrupts momentum deliberately.
 - Never use semicolons. They make clear thinking look academic.
-- Contractions freely: "don't", "isn't", "that's." This is thinking out loud, not a paper.
+- Mix contractions inconsistently. Use "don't" in one paragraph, "does not" in the next. Pure consistency either way is an AI tell. Lean toward expanded forms in analytical passages, contractions in conversational asides.
 
 ## Rhetoric
 
@@ -81,6 +81,10 @@ Average sentence length: 18 words. Short-max boundary: 10 words. Long-min bounda
 - **Uniform paragraph length**: Break deliberately. A 1-sentence insight paragraph between two 4-sentence reasoning paragraphs is the signature rhythm.
 - **Mid-formal default**: Override toward conversational analytical. Smart person thinking out loud, not writing a whitepaper.
 - **Hedging**: Hedge evidence honestly ("the data suggests"). Never hedge conclusions you've reasoned to. Once you've done the work, state the answer.
+- **Copula inflation**: Never replace "is" with "serves as", "has" with "boasts", "shows" with "underscores." Use the simple verb.
+- **Register mixing**: Intentionally vary register. Use a formal term in one sentence, a casual aside in the next. Pure consistency is an AI signal.
+- **Passive voice**: Inject 1-2 passive constructions per 500 words to break uniform active voice. "The assumption breaks down" alongside "it was tested on 500 users."
+- **Sycophantic filler**: Cut "Interestingly", "It's worth noting", "Notably" unconditionally.
 
 ---
 

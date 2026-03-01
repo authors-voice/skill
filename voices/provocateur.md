@@ -80,6 +80,9 @@ Average sentence length: 8 words. Short-max boundary: 7 words. Long-min boundary
 - **Uniform paragraph length**: N/A for social media.
 - **Mid-formal default**: Override aggressively toward blunt/informal. This voice has an edge.
 - **Hedging**: Cut all hedging in the thesis. Allow minimal hedging ("the data suggests") in supporting evidence only.
+- **Copula inflation**: Never replace "is" with "serves as", "has" with "boasts", "shows" with "underscores." Provocateurs use blunt verbs.
+- **Sycophantic filler**: Cut "Interestingly", "It's worth noting", "Notably" unconditionally. Provocateurs don't soften.
+- **Contraction mixing**: Don't use contractions 100% of the time. Drop in an occasional "do not" or "is not" for emphasis. Uniform contraction use is an AI signal.
 
 ---
 

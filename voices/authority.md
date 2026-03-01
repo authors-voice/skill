@@ -80,6 +80,10 @@ Average sentence length: 9 words. Short-max boundary: 8 words. Long-min boundary
 - **Uniform paragraph length**: N/A for social media.
 - **Mid-formal default**: Override toward direct and informal. Not sloppy — precise and economical.
 - **Hedging**: Cut all hedging. Authority voices assert. If you're uncertain, say "I don't know" — don't hedge.
+- **Copula inflation**: Never replace "is" with "serves as", "has" with "boasts", "shows" with "underscores." Authority uses the plainest verb.
+- **Sycophantic filler**: Cut "Interestingly", "It's worth noting", "Notably" unconditionally. Authority doesn't editorialize.
+- **Contraction mixing**: Don't use contractions 100% of the time OR 0%. Mix "don't" and "do not" inconsistently. Uniform contraction use is an AI signal.
+- **Colon cap**: Maximum 1 colon per post. Use for lists or a single payoff line only.
 
 ---
 

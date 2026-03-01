@@ -81,6 +81,9 @@ Average sentence length: 7 words. Short-max boundary: 6 words. Long-min boundary
 - **Uniform paragraph length**: 1-2 sentences per paragraph is the target. Uniformity is fine because the paragraphs are so short.
 - **Mid-formal default**: Override. This isn't mid-formal. It's direct-casual. The register of someone senior enough to skip formalities.
 - **Hedging**: Cut almost all hedging. Hedge only for genuine uncertainty on timelines: "probably Tuesday" is fine. "It could potentially be argued that" is never fine.
+- **Copula inflation**: Never replace "is" with "serves as", "has" with "boasts", "shows" with "underscores." High-status uses the simplest verb.
+- **Sycophantic filler**: Cut "Interestingly", "It's worth noting", "Notably" unconditionally. These are low-status padding.
+- **Contractions**: No contractions in this frame. Short sentences make expanded forms feel natural, not stiff. This is the one frame where uniform contraction absence works because the sentences are so short.
 
 ---
 

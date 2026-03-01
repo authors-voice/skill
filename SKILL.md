@@ -286,6 +286,12 @@ Rewrite without the formula. State the point directly.
 
 **Sycophantic filler — cut unconditionally.** "Interestingly", "It's worth noting", "Notably", "It is important to note that", "It's crucial to understand" — these are AI padding. Delete them. They add nothing.
 
+**Contraction consistency — mix intentionally.** Uniform contraction use (100% contractions OR 100% expanded) is an AI signal. Real humans are inconsistent. Use "don't" in one sentence and "does not" three sentences later. The inconsistency IS the authenticity signal. Check the voice frame or profile for specific guidance.
+
+**Colon density — cap usage.** AI overuses colons. Cap at 1 per 400-500 words depending on the voice frame. Business Framed and Provocateur: no colons at all. Authority: 1 per post. Long-form frames: 1 per 400-500 words.
+
+**Register uniformity — break it.** AI maintains a single consistent register throughout. Real writing mixes formal vocabulary with casual asides, academic precision with colloquial reactions. Intentionally vary register within a piece. This is the "bidirectional sophistication" principle from empirical testing (GPTZero 100% → 3%).
+
 #### Tier 2: Voice-Gated Checks (Check Profile First)
 
 These patterns are suspicious but may match the author's voice. Check the profile before fixing.
@@ -308,8 +314,12 @@ Re-read the complete output:
 1. Count em-dashes. If more than 1 per 500 words, convert the extras
 2. Scan for any contrastive formula. Rewrite if found
 3. Grep for nuclear phrases. Kill any survivors
-4. Would a reader who knows this author believe they wrote this?
-5. Does any sentence sound like "AI writing" rather than this specific person?
+4. Check contraction consistency. Are contractions mixed inconsistently (not 100% one way)?
+5. Count colons. Within the frame's limit?
+6. Check register variation. Is the tone monotonously consistent, or does it mix naturally?
+7. Scan for copula inflation ("serves as", "boasts", "underscores"). Simplify to plain verbs
+8. Would a reader who knows this author believe they wrote this?
+9. Does any sentence sound like "AI writing" rather than this specific person?
 
 If anything fails, rewrite that section. Don't patch — rewrite using the samples as reference.
 

@@ -23,10 +23,10 @@ Long-form voice for essays, blog posts, and articles. The posture: every argumen
 ## Punctuation
 
 - Em-dashes: maximum 1 per 500 words. Use for a dramatic aside that disrupts the narrative flow.
-- Colons for the reveal: "Then I checked the logs: zero transactions since midnight."
+- Colons for the dramatic reveal only, cap at 1 per 500 words: "Then I checked the logs: zero transactions since midnight."
 - Parentheses for background details the reader needs but the story doesn't: (we'd been using the free tier).
 - Never use semicolons. Stories don't have semicolons.
-- Contractions always: "didn't", "wasn't", "couldn't." Stories are told in a human voice.
+- Mix contractions inconsistently. Default to contractions ("didn't", "wasn't") but drop in an expanded form occasionally ("I did not" instead of "I didn't") for emphasis or rhythm. Uniform contraction use is an AI signal.
 
 ## Rhetoric
 
@@ -80,7 +80,11 @@ Average sentence length: 19 words. Short-max boundary: 10 words. Long-min bounda
 - **Sentence length uniformity**: Enforce variation. Narrative pacing requires it: long momentum-building sentences → short punch at the turn.
 - **Uniform paragraph length**: Break deliberately. A 1-sentence impact paragraph between narrative paragraphs is the signature rhythm.
 - **Mid-formal default**: Override toward warm and conversational. This voice has personality and vulnerability.
-- **Hedging**: Hedge sparingly and only as narrative technique: "I think — I'm not sure — that was the moment it clicked." Never hedge the lesson.
+- **Hedging**: Hedge sparingly and only as narrative technique: "I think, I'm not sure, that was the moment it clicked." Never hedge the lesson.
+- **Copula inflation**: Never replace "is" with "serves as", "has" with "boasts", "shows" with "underscores." Stories use plain verbs.
+- **Register mixing**: Stories naturally mix registers. Use formal precision ("zero transactions since midnight") next to casual observation ("we were screwed"). This inconsistency is authentic.
+- **Passive voice**: Inject 1-2 passive constructions per 500 words for variation. "The deploy was rolled back" alongside "I pulled the plug."
+- **Sycophantic filler**: Cut "Interestingly", "It's worth noting", "Notably" unconditionally. Stories don't need editorial commentary.
 
 ---
 
