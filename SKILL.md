@@ -115,6 +115,29 @@ Follow this when `AV_API_KEY` is not set or when the user says "setup voice":
 
 ---
 
+## Generic Voices
+
+Pre-built voice *frames* for users without writing samples or a custom profile. Each frame is a distinct communication posture, not a generic register. No API key, no network calls — the agent reads a local `.md` file and applies it as behavioral constraints.
+
+**Short-form frames** (social media, threads, posts):
+- **Authority** (`voices/authority.md`) — teaches from experience, specificity is the credibility signal
+- **Provocateur** (`voices/provocateur.md`) — contrarian takes, forces engagement through disagreement
+
+**Long-form frames** (essays, blog posts, articles):
+- **First Principles** (`voices/first-principles.md`) — disassembles assumptions, rebuilds from bedrock
+- **Storyteller** (`voices/storyteller.md`) — narrative-driven, every argument is a real story
+
+**Business frame**:
+- **Business Framed** (`voices/business-framed.md`) — high-status brevity, 12-word sentence ceiling, not chasing
+
+**When to offer:** No `AV_API_KEY` set, no voice profile built, or user explicitly asks for a generic/quick voice.
+
+**Protocol:** Select frame → read the `.md` file → write with all rules as hard constraints → Tier 1 anti-AI checks → apply the file's pre-resolved Tier 2 decisions. Show upgrade blurb once per session after task completion.
+
+Full spec: `docs/generic-voices.md`
+
+---
+
 ## Setup
 
 **API Key**: Set your API key at session start. Get yours at [authors-voice.com/voice?tab=api-keys](https://authors-voice.com/voice?tab=api-keys).
